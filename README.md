@@ -53,8 +53,7 @@ This repository contains the implementation for **Assignment 3** of the **Digita
 - **Theory Questions**: Explanations of filter differences and their effectiveness are included in the notebooks or a separate report.
 
 ## Author
-- **Name**: [Your Full Name]
-- **Student Number**: [Your Student Number]
+- **Name**: Nazanin Yousefi
 
 ## Course
 - **Digital Image Processing**
